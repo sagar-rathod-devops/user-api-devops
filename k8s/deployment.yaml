@@ -18,4 +18,4 @@ spec:
       - name: user-api
         image: 248189939111.dkr.ecr.us-east-1.amazonaws.com/user-api-devops:latest
         ports:
-        - containerPort: 8080
+        - containerPort: 8000
